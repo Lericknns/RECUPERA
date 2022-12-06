@@ -12,6 +12,39 @@ export default function Index(){
             <button className='botao'><h1 className='textb'>add aluno</h1></button>
             <button className='botao' ><h1 className='textb'>remover aluno</h1></button>
         </section>
+
+        <section className='sec2'> 
+        <table border="1" >
+   <thead>
+   <tr>
+       <th>numero</th>
+       <th>nome</th>
+       <th>ano</th>
+       <th>turma</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+       <td>1</td>
+       <td>Leandro Geraldo Nunes dos Santos</td>
+       <td>1</td>
+       <td>B</td>
+   </tr>
+   <tr>
+       <td>2</td>
+       <td>Leandro Geraldo Nunes dos Santos</td>
+       <td>1</td>
+       <td>B</td>
+   </tr>
+   </tbody>
+   <tfoot>
+       <td>3</td> 
+       <td>Leandro Geraldo Nunes dos Santos</td>
+       <td>1</td>
+       <td>B</td>
+   </tfoot>
+</table>
+</section>
           
 
 
