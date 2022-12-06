@@ -1,0 +1,40 @@
+.prin{display: flex;
+    flex-direction: column;
+    background-color: #847af1 ;
+    width: 100%;
+    height: 58em;
+    justify-content: center;
+
+    .bola{
+        background-color: black;
+        border: none;
+        border-radius: 10px;
+    }
+
+     .enput{  border: none;
+        border-radius :10px ;
+        width: 20em;
+        height: 3em;
+       
+    }
+
+    .space{
+        margin-left: 2em;
+    }
+    .space2{
+        margin-left: 2em;
+    }
+
+    .space3{
+        margin-left: 2em;
+    }
+     .WeAre{
+        margin-left: 2em;
+        width: 10em;
+        height: 5em;
+        border-radius: 10px;
+     }
+
+    
+
+    }
